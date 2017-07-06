@@ -1,6 +1,6 @@
 var tocConfig = {
-  url: "/",
-  feedNum: 6,
+  url: "",
+  feedNum: 8,
   labelName: (window.location.hash && window.location.hash != "#0" && window.location.hash != "#search") ? encodeURIComponent(window.location.hash.substr(1)) : false,
   numChars: 140,
   thumbWidth: 70,
