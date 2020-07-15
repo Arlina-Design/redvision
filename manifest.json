@@ -1,0 +1,38 @@
+{
+  "name": "arlinacode.com",
+  "short_name": "ArlinaCode",
+  "start_url": "https://www.arlinacode.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#f24a4a",
+  "description": "Berbagi Tips Seputar Blogger dan Informasi Lainnya",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-hMelk06ZJHo/Xw8CYTLs9aI/AAAAAAAAKmU/JY5tW7JHZS0Dhvg7CMsWoiZVHZ9O6GGjwCLcBGAsYHQ/s48/Arlina%2BCode%2BNew1.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hMelk06ZJHo/Xw8CYTLs9aI/AAAAAAAAKmU/JY5tW7JHZS0Dhvg7CMsWoiZVHZ9O6GGjwCLcBGAsYHQ/s72/Arlina%2BCode%2BNew1.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hMelk06ZJHo/Xw8CYTLs9aI/AAAAAAAAKmU/JY5tW7JHZS0Dhvg7CMsWoiZVHZ9O6GGjwCLcBGAsYHQ/s96/Arlina%2BCode%2BNew1.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hMelk06ZJHo/Xw8CYTLs9aI/AAAAAAAAKmU/JY5tW7JHZS0Dhvg7CMsWoiZVHZ9O6GGjwCLcBGAsYHQ/s144/Arlina%2BCode%2BNew1.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hMelk06ZJHo/Xw8CYTLs9aI/AAAAAAAAKmU/JY5tW7JHZS0Dhvg7CMsWoiZVHZ9O6GGjwCLcBGAsYHQ/s168/Arlina%2BCode%2BNew1.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hMelk06ZJHo/Xw8CYTLs9aI/AAAAAAAAKmU/JY5tW7JHZS0Dhvg7CMsWoiZVHZ9O6GGjwCLcBGAsYHQ/s192/Arlina%2BCode%2BNew1.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hMelk06ZJHo/Xw8CYTLs9aI/AAAAAAAAKmU/JY5tW7JHZS0Dhvg7CMsWoiZVHZ9O6GGjwCLcBGAsYHQ/s512/Arlina%2BCode%2BNew1.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
